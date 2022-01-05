@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "./static/css/main.9d6d0d38.css",
-    "main.js": "./static/js/main.5303a280.js",
+    "main.js": "./static/js/main.3cc3468f.js",
     "static/js/787.e608ee03.chunk.js": "./static/js/787.e608ee03.chunk.js",
     "static/media/lifehaxors.png": "./static/media/lifehaxors.47527ec54ea229ab9c96.png",
     "static/media/lit.png": "./static/media/lit.8fc998788cb4694b8cdd.png",
     "static/media/bootstrap-icons.woff?": "./static/media/bootstrap-icons.38c4d2499557ae0379fd.woff",
+    "static/media/Ryan_Proctor_Resume.pdf": "./static/media/Ryan_Proctor_Resume.2bb81f9f6b9f7ab01dff.pdf",
     "static/media/linux.svg": "./static/media/linux.4519b15b9e712c223d8a.svg",
     "static/media/bootstrap-icons.woff2?": "./static/media/bootstrap-icons.2b56e79ae5013246de29.woff2",
     "static/media/suburban-sneak.gif": "./static/media/suburban-sneak.e2ee2ee39e1c94285570.gif",
@@ -41,11 +42,11 @@
     "static/media/js.svg": "./static/media/js.acc4642f682cd93a4c20.svg",
     "index.html": "./index.html",
     "main.9d6d0d38.css.map": "./static/css/main.9d6d0d38.css.map",
-    "main.5303a280.js.map": "./static/js/main.5303a280.js.map",
+    "main.3cc3468f.js.map": "./static/js/main.3cc3468f.js.map",
     "787.e608ee03.chunk.js.map": "./static/js/787.e608ee03.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9d6d0d38.css",
-    "static/js/main.5303a280.js"
+    "static/js/main.3cc3468f.js"
   ]
 }
